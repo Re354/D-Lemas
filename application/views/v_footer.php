@@ -1,5 +1,5 @@
 <footer>
-    <a href="http://www.RentalBuku.com">RentalBuku</a>
+<strong>Copyright &copy; 2022 <a href="#">Rizal Ruba'i.</a></strong> All rights reserved.
 </footer>
 </div>
 </body>
